@@ -4,7 +4,7 @@
 
 方向是 **真实屏幕证据 + Apple-like 产品视觉 + 清晰标题 + 无人物干净构图**，一次性整图生成，不靠本地贴字拼图。
 
-> 作者：oil 欧呦（[@oil-oil](https://github.com/oil-oil)）
+> 作者：Carbon-J
 
 ## 封面示例
 
@@ -40,10 +40,10 @@
 
 ```bash
 # Claude Code
-git clone https://github.com/oil-oil/oil-cover.git ~/.claude/skills/carbonj-cover
+git clone https://github.com/CarbonJ-AIEra/carbonj-cover.git ~/.claude/skills/carbonj-cover
 
 # 或 Codex
-git clone https://github.com/oil-oil/oil-cover.git ~/.codex/skills/carbonj-cover
+git clone https://github.com/CarbonJ-AIEra/carbonj-cover.git ~/.codex/skills/carbonj-cover
 ```
 
 脚本按 `CARBONJ_COVER_SKILL_DIR` → `~/.claude/skills/carbonj-cover` → `~/.codex/skills/carbonj-cover` 的顺序自动定位规则文件和 Logo 资产，装到上面任一位置即开箱可用，无需配置环境变量。
@@ -105,4 +105,4 @@ assets/product-logos/           内置 AI 产品 Logo
 
 ## License
 
-[MIT](LICENSE) © 2026 oil 欧呦
+[MIT](https://github.com/CarbonJ-AIEra/carbonj-cover/blob/main/LICENSE) © 2026 Carbon-J
