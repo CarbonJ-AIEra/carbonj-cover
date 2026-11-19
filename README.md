@@ -11,9 +11,6 @@
 <p align="center">
   <img src="docs/showcase/gallery.png" width="860">
 </p>
-<p align="center">
-  <img src="docs/showcase/gallery-4x3.png" width="640">
-</p>
 
 ## 特点
 
